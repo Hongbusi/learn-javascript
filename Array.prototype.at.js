@@ -6,12 +6,12 @@ function at(n) {
 }
 
 // test
-Array.prototype.hAt = at
+Array.prototype._at = at
 
 const arr = [0, 1, 2, 3, 4, 5, 6]
 
-console.log(arr.hAt(0))
-console.log(arr.hAt(6))
-console.log(arr.hAt(9))
-console.log(arr.hAt(-1))
-console.log(arr.hAt(-9))
+console.log(arr._at(0))
+console.log(arr._at(6))
+console.log(arr._at(9))
+console.log(arr._at(-1))
+console.log(arr._at(-9))
