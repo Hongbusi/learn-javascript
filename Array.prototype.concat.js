@@ -22,3 +22,7 @@ Array.prototype._concat = concat
 
 const arr1 = [0, 1, 2, 3]
 const arr2 = [3, 4, 5, 6]
+const arr3 = ['a', 'b', 'c']
+
+console.log(arr1._concat(arr2))
+console.log(arr1._concat(arr2, arr3))
