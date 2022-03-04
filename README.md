@@ -1,6 +1,6 @@
 # learn-javascript
 
-手写 js 中 `String`，`Array`，`Object` 的方法。
+手写 JS 中 `String`，`Array`，`Object` 的方法。
 
 ## Array
 
