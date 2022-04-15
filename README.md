@@ -1,9 +1,9 @@
 # learn-javascript
 
-手写 JS 中 `String`，`Array`，`Object` 的方法。
+手写 JavaScript Api 系列。
 
 ## Array
 
-- [Array.prototype.at()](./Array.prototype.at.js)
-- [Array.prototype.concat()](./Array.prototype.concat.js)
-- [Array.prototype.every()](./Array.prototype.every.js)
+- [Array.prototype.at()](./src/Array.prototype.at.js)
+- [Array.prototype.concat()](./src/Array.prototype.concat.js)
+- [Array.prototype.every()](./src/Array.prototype.every.js)
