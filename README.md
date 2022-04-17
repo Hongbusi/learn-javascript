@@ -4,6 +4,6 @@
 
 ## Array
 
-- [Array.prototype.at()](./src/Array.prototype.at.js)
-- [Array.prototype.concat()](./src/Array.prototype.concat.js)
-- [Array.prototype.every()](./src/Array.prototype.every.js)
+- [Array.prototype.at()](./Array.prototype.at.js)
+- [Array.prototype.concat()](./Array.prototype.concat.js)
+- [Array.prototype.every()](./Array.prototype.every.js)
