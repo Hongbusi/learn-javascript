@@ -14,4 +14,4 @@ function every(callbackFn, thisArg) {
 Array.prototype._every = every
 const arr = [1, 2, 3, 4]
 
-arr._every((item) => item < 2)
+arr._every(item => item < 2)

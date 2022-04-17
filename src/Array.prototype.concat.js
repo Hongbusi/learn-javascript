@@ -5,12 +5,13 @@ function concat() {
   }
 
   for (let i = 0; i < arguments.length; i++) {
-    let argument = arguments[i]
+    const argument = arguments[i]
     if (argument instanceof Array) {
       for (let j = 0; j < argument.length; j++) {
         newArr.push(argument[j])
       }
-    } else {
+    }
+    else {
       newArr.push(argument)
     }
   }
