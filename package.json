@@ -2,7 +2,10 @@
   "private": true,
   "name": "learn-javascript",
   "eslintConfig": {
-    "extends": "@hongbusi/eslint-config-basic"
+    "extends": "@hongbusi/eslint-config-basic",
+    "rules": {
+      "no-console": "off"
+    }
   },
   "devDependencies": {
     "@hongbusi/eslint-config-basic": "^0.2.1",
